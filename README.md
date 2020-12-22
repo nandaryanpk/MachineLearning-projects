@@ -1,2 +1,3 @@
 # MachineLearning-projects
-This is my Data Science and Machine Learning projects
+This is my Data Science/Machine Learning projects.
+
